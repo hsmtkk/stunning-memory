@@ -7,4 +7,10 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@nuxtjs/supabase',
   ],
+  supabase: {
+    redirectOptions: {
+      login: "/login",
+      callback: "/"
+    }
+  }
 })
