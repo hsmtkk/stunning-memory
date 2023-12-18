@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Mirai",
+        "make": "Toyota",
+        "model": "Mirai",
+        "price": "50,000",
+        "year": 2017,
+        "city": "Los angels",
+        "url": "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001318440.jpg",
+        "seats": 5,
+        "miles": "5000",
+        "features": "No accidents, Low KM",
+        "description": "Blah Blah Blah"
+    },
+    {
+        "id": 2,
+        "name": "Maserati Levante",
+        "make": "Maserati",
+        "model": "Levante",
+        "price": "125,000",
+        "year": 2015,
+        "city": "Toronto",
+        "url": "https://maserati.scene7.com/is/image/maserati/maserati/international/Models/my22/levante-my22/my22/16_9/lv_3_front.jpg",
+        "seats": 5,
+        "miles": "53,666",
+        "features": "No accidents, Low KM",
+        "description": "Blah Blah Blah"
+    }
+]
