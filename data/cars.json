@@ -2,10 +2,11 @@
     {
         "id": 1,
         "name": "Range Rover Sport",
-        "price": "84,777",
+        "price": 84777,
         "url": "https://webcg.ismcdn.jp/mwimgs/b/d/730wm/img_bdb77e92e4e09231e3e393af75e6cc28297620.jpg",
         "seats": 5,
-        "miles": "14,666",
+        "miles": "14666",
+        "city": "Chicago",
         "features": [
             "alpha",
             "bravo",
@@ -16,10 +17,11 @@
     {
         "id": 2,
         "name": "Rolls Royce Ghost",
-        "price": "455,000",
+        "price": 455000,
         "url": "https://hips.hearstapps.com/hmg-prod/images/2023-rolls-royce-black-badge-101-1673365072.jpeg",
         "seats": 5,
-        "miles": "53,666",
+        "miles": "53666",
+        "city": "Toronto",
         "features": [
             "delta",
             "echo",
@@ -30,10 +32,11 @@
     {
         "id": 3,
         "name": "Porsche Taycan",
-        "price": "180,434",
+        "price": 180434,
         "url": "https://cdn.porsche.co.jp/sp/taycan/images/concept_04.jpg",
         "seats": 5,
         "miles": "0",
+        "city": "LA",
         "features": [
             "golf",
             "hotel",
